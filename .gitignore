@@ -1,0 +1,51 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash / build files
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Zipped builds and videos (upload these to SharePoint / GitHub Releases instead)
+*.zip
+*.mp4
+*.mkv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VACAC-provided models are over GitHub's 100 MB limit
+/Assets/VACAC/
+/Assets/VACAC.meta
+
+
