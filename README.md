@@ -3,9 +3,11 @@
 A Unity application for building conveyor lines out of the provided conveyor models and
 simulating the provided products travelling along them.
 
-- **GitHub:** `https://github.com/<your-username>/VACAC-Conveyor-System`  ← replace
-- **Build (Windows):** see the `v1.0` release on GitHub, or `VACAC_ConveyorSystem_Build.zip`
-- **Video demo:** `<link or file name>`  ← replace
+- **GitHub:** https://github.com/kartikthapliyal11/VACAC-Conveyor-System
+- **Build (Windows):** `VACAC_ConveyorSystem_Build.zip` (in the SharePoint Zipped_Release folder)
+- **Video demo:** `VACAC_ConveyorSystem_Demo.mov` (in the SharePoint Video_Demo folder)
+
+> **Note:** The VACAC-provided conveyor and product models are not included in this repository because each model file is larger than GitHub's 100 MB limit. To open the project in Unity, first import the provided `VACAC_Graduate_Software_Engineer_Take-Home_Technical_Task.unitypackage`. The Windows build zip contains everything needed to run the app.
 
 ---
 
